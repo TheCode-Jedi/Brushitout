@@ -1,5 +1,5 @@
 # Brushitout
-Brushiout is a WordPress site for an entertainment collective. The site features a music playlist, and interactive gallery. The purpose of the site is to feaure music, music videos, and promote the services that Brushiout offers. The site is on the WordPress CMS and was built with premium theme as a base and edited to the clients specs with HTML, CSS and PHP with some JavaScript. 
+Brushitout is a WordPress site for an entertainment collective. The site features a music playlist, and interactive gallery. The purpose of the site is to feaure music, music videos, and promote the services that Brushiout offers. The site is on the WordPress CMS and was built with premium theme as a base and edited to the clients specs with HTML, CSS and PHP with some JavaScript. 
 
 ### Prerequisites
 
